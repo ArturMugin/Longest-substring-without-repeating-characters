@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest substring without repeating", "Longest substring without repeating.csproj", "{045DB59C-3C1E-45FD-BF78-62FAE3EDD3FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045DB59C-3C1E-45FD-BF78-62FAE3EDD3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045DB59C-3C1E-45FD-BF78-62FAE3EDD3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045DB59C-3C1E-45FD-BF78-62FAE3EDD3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045DB59C-3C1E-45FD-BF78-62FAE3EDD3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECA4F6E5-07E5-4CBC-98A5-E052838B3322}
+	EndGlobalSection
+EndGlobal
