@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        string s = "bpfbhmipx";
+        string s = "ckilbkd";
         List<char> characterCheck = new();
         List<int> highestNum = new();
 
@@ -34,7 +34,7 @@
                     }
                     else
                     {
-                        characterCheck.RemoveRange(0, characterCheck.IndexOf(s[i]));
+                        characterCheck.RemoveRange(0, characterCheck.IndexOf(s[i]) + 1);
                         characterCheck.Add(s[i]);
                     }
                 }
